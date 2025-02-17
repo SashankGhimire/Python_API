@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Simple in-memory "database" (just a dictionary for simplicity)
+# Simple in-memory "database" (just a dictionary for simplicity) Ha
 products = {}
 
 # Route to add a product
